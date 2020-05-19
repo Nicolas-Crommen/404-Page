@@ -1,3 +1,6 @@
+.container
+{align-items: center;}
+
 *
 {font-family: 'Josefin Sans', sans-serif;
 }
@@ -11,14 +14,14 @@ background: linear-gradient(90deg, rgb(104, 89, 110), rgb(143, 135, 146));
 {max-width: 50%;}
 
 h1
-{text-align: center;
-color: white;
-font-size: 4em;}
+{color: white;
+font-size: 4em;
+text-align: center;}
 
 h2
-{text-align: center;
-color: white;
-font-size: 2em;}
+{color: white;
+font-size: 2em;
+text-align: center;}
 
 .tenor-gif-embed
 {max-width: 50%;
